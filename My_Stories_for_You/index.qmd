@@ -1,12 +1,101 @@
-# UTS-3 My Stories for You
+---
+title: "UTS-3: My Stories for You"
+subtitle: "Today Is Always Your Best Day 🍀"
+author: "Muhammad Kinan Arkansyaddad"
+format: 
+  revealjs:
+    theme: solarized
+    embed-resources: true
+    slide-number: true
+---
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+## Membuka 'Quest Log' Inspirasi
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+Sebagai seorang *player* di 'Level 3' (Tingkat 3), saya sadar hidup ini seperti memainkan two *game modes* sekaligus.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+Dan saya ingin membagikan dua "Game Guide" atau "Walkthrough" yang menurut saya paling inspiratif untuk kita mainkan.
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+<br>
+**Mode #1:** JRPG Kompleks tentang *Masa Depan*.
+**Mode #2:** *Slice-of-Life Minigame* tentang *Hari Ini*.
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+---
+
+## Game Guide #1: 'Persona 4' (The Main Quest)
+
+Seperti yang pernah saya ceritakan, *Persona 4* adalah 'Game of My Life'.
+
+Ini adalah *game* yang sempurna untuk 'Level 3' kita. Ini adalah JRPG yang *gameplay*-nya adalah tentang: <br>
+* Berjalan menembus 'Fog of War' (Kabut ketidakpastian masa depan). <br>
+* Melawan 'Shadow Self' (Si 'Overthinking', si 'Imposter Syndrome', si 'Tired Student'). <br>
+* Dan satu-satunya cara untuk menang adalah dengan menaikkan *stats* 'Social Links' (Ikatan dengan orang lain).
+
+---
+
+## 'Persona 4': Lore & Wawasan
+
+**Kisah Inspiratif #1:** "Kita tidak bisa lari dari 'Shadow' kita."
+
+*Game* ini mengajarkan saya bahwa semua 'Overthinking' dan 'Kecemasan' (Shadow Self) itu tidak bisa dikalahkan sendirian.
+
+Satu-satunya cara untuk 'menang' dalam *quest* 'Menjadi Dewasa' adalah dengan **"Reaching Out to the Truth"**—mempercayai 'Party Members' kita (teman-teman, relasi intim) untuk menghadapi kabut bersama.
+
+Ini adalah *game guide* tentang **MENGAPA** kita berjuang: Demi ikatan dan masa depan.
+
+---
+
+## Game Guide #2: 'Yotsuba&!' (The Daily Quest)
+
+Tapi, ada 'game guide' kedua yang sama pentingnya.
+Ini bukan JRPG yang berat. Ini adalah *manga*.
+
+*Manga* ini tidak punya 'Main Quest' yang rumit. Tidak ada 'Shadow Self'. Tidak ada 'Fog of War'.
+
+*Boss*-nya adalah "Hari Hujan".<br>
+*Quest*-nya adalah "Pergi Membeli Susu".<br>
+*Stats*-nya hanya satu: **'ENJOY EVERYTHING' (Menikmati Segalanya)**, dan Yotsuba (tokoh utamanya) punya *stat* ini di level MAX.
+
+![Yotsuba & Her Father](../images/yotsuba.jpg){width=950%}
+
+---
+
+## 'Yotsuba&!': Lore & Wawasan
+
+**Kisah Inspiratif #2:** "Semua hal adalah 'Play'."
+
+*Game* ini mengajarkan saya sesuatu yang dilupakan oleh *Persona 4*:
+Yotsuba mengubah *game loop* yang paling membosankan ('the grind') menjadi *gameplay* yang paling seru.
+
+Dia menemukan 'fun' dalam *daily quest* yang kita anggap remeh: mencoba AC baru, menangkap serangga, atau sekadar makan es krim.
+
+Ini adalah *game guide* tentang **BAGAIMANA** kita harus menjalani perjuangan itu: Dengan menemukan kebahagiaan di level paling dasar.
+
+![Yotsuba](../images/image.png)
+
+---
+
+## More Resources You Can Watch
+
+{{< video https://youtu.be/CujlchNaHNc?si=M87U_XedHrkg10M0>}}
+
+{{< video https://youtu.be/YOjw9KNKgLU?si=Ez-VNINOj9fQ3gmj>}}
+
+{{< video https://youtu.be/qiNOdt8JcNs?si=3RQo3ZSeF_lkYZhA>}}
+
+{{< video https://youtu.be/WjmzycUOeO8?si=RaQ8LZveMr3ITqYk>}}
+
+---
+
+## Pesan Terakhir: 'The Co-op Strategy'
+
+Ini adalah kisah yang ingin saya bagikan kepada Anda.
+
+Kita sering kali terlalu fokus memainkan 'Game #1' (*Persona 4*). Kita terjebak dalam *quest* 'Menjadi Dewasa', menaikkan *stats* 'Karir', dan *overthinking* soal 'Kabut Masa Depan'.
+
+Kita lupa bahwa kita juga harus memainkan 'Game #2' (*Yotsuba&!*).
+
+**Kisah inspiratifnya adalah:**
+Kita butuh 'Main Quest' *Persona 4* untuk memberi kita **tujuan** dan **ikatan**.
+Tapi kita butuh 'Daily Quest' *Yotsuba* untuk memberi kita **kebahagiaan** hari ini.
+
+Jangan lupa menikmati *gameplay* sederhana di tengah *grinding* 'Level 3' yang berat ini.

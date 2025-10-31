@@ -2,11 +2,14 @@ project:
   type: book
   output-dir: docs
 
+resources:
+  - My_Personal_Reviews/UTS-5_skor.xlsx
+
 book:
-  title: "Armein Z. R. Langi"
+  title: "Muhammad Kinan Arkansyaddad"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "131902360 Armein Z R Langi"
-  date: "9/15/2025"
+  author: "13523152 Muhammad Kinan Arkansyaddad"
+  date: "10/31/2025"
   chapters:
     - index.qmd
     - All_About_me/index.qmd
