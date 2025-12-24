@@ -1,7 +1,68 @@
-## UAS-4 My Knowledge
+# UAS-4: My Knowledge (Pengetahuan)
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+---
+
+## Pengenalan
+
+Sebagai *engineer* sistem informasi, pengetahuan saya mencakup tidak hanya ide, tetapi juga **struktur teknis** untuk mewujudkannya. Pengetahuan dipetakan ke dalam **tiga kategori**:
+
+---
+
+## Peta Pengetahuan Primitif (The "What")
+
+**Fondasi pengetahuan deklaratif** yang harus dikuasai:
+
+### Game Development Core
+- Pemahaman mendalam tentang *Scene Tree*, *Signal*, dan *Physics Process* di Godot Engine
+- Memahami game loop, event-driven programming, dan resource management
+
+### Linguistik Komputasional
+- Dasar-dasar pemrosesan teks dan suara manusia oleh komputer
+- Konsep Phoneme, Tokenization, NLP fundamentals
+- Speech recognition offline dan text-to-speech
+
+### Statistik Global
+- Data target audiens: wilayah buta huruf, penetrasi smartphone di negara berkembang
+- Demografi pengguna mobile entry-level, ketersediaan bandwidth
+
+---
+
+## Peta Pemecahan Masalah (The "How")
+
+**Pengetahuan prosedural** tentang *workflow* pembuatan inovasi:
+
+### Fase Perancangan (Design)
+- Menerjemahkan kurikulum SD kelas 1 menjadi mekanik *gameplay*
+- **Contoh:** "Subjek-Predikat-Objek" → misi "Menyusun Jembatan Kata"
+- Game loop design, level progression, feedback system
+
+### Fase Optimasi (Optimization)
+- Memangkas penggunaan RAM agar berjalan lancar di perangkat 2GB
+- Pemrograman C++ tingkat rendah, memory profiling
+- Asset compression, batching, culling techniques
+
+### Fase Distribusi
+- Strategi penyebaran *offline* (peer-to-peer sharing) di desa tanpa internet
+- APK distribution, USB-based sharing, sync mechanisms
+
+---
+
+## Artefak Pengetahuan
+
+**Bukti nyata kompetensi:**
+
+| Artefak | Deskripsi |
+|---------|----------|
+| **GDD** | Cetak biru 50 halaman merinci setiap aspek permainan |
+| **Prototipe Alpha** | Versi playable dengan satu level tutorial |
+| **Video Devlog** | Dokumentasi visual proses pengembangan untuk komunitas |
+
+---
+
+## Sintesis: Mengintegrasikan Ketiga Pilar
+
+- **What** → Fondasi teoretis dan konseptual
+- **How** → Jalan eksekusi yang terukur
+- **Artifacts** → Bukti nyata dan terukur
+
+**Kombinasi ketiganya adalah satu-satunya cara untuk mewujudkan *Aksara Quest* yang berdampak sosial.**

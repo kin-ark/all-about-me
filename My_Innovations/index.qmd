@@ -1,1 +1,63 @@
-# UAS-3 My Innovations
+# UAS-3: My Innovations (Inovasi)
+
+---
+
+## "Aksara Quest" - Petualangan Literasi Tanpa Batas
+
+Inovasi ini adalah **produk nyata berupa perangkat lunak permainan** yang dirancang untuk mengajarkan membaca dan berhitung dasar **tanpa koneksi internet**.
+
+---
+
+## Deskripsi Solusi Teknis
+
+Berbeda dengan aplikasi belajar biasa (Duolingo, Ruangguru) yang terasa seperti "buku pelajaran digital", **Aksara Quest** adalah **game RPG penuh aksi**.
+
+### Stack Teknologi
+| Aspek | Detail |
+|-------|--------|
+| **Platform** | Android (Entry Level spec) |
+| **Engine** | Godot Engine (ringan, open source) |
+| **Bahasa** | GDScript + C++ (GDExtension) |
+
+---
+
+## Fitur Unggulan (Value Innovation)
+
+Inovasi nilai terletak pada cara menghilangkan rasa **"sedang belajar"**:
+
+### Mekanisme Mantra Suara (Voice-Activated Spells)
+- Pemain mengalahkan monster dengan **mengucapkan kata dengan benar** (bukan tombol)
+- Sistem pengenalan suara *offline* memvalidasi ucapan
+- Melatih **pelafalan dan membaca cepat** dalam situasi yang seru
+
+---
+
+## Dampak Nyata
+
+Inovasi ini secara langsung menjawab tantangan **Masalah Global #8** dengan spesifikasi:
+
+| Metrik | Target |
+|--------|--------|
+| **Ukuran Aplikasi** | < 100MB |
+| **Kompatibilitas** | HP lama (RAM 2GB+) |
+| **Konektivitas** | 100% Offline-capable |
+| **Target Audiens** | Daerah 3T, tanpa guru/sekolah |
+
+**Dampak:** Mendemokratisasi akses pendidikan berkualitas tinggi ke jutaan orang di daerah terpencil.
+
+---
+
+## Kesimpulan
+
+*Aksara Quest* adalah gerakan sosial yang memberdayakan melalui **game design yang terukur** dan **engineering yang solid**, bukan sekadar aplikasi edukasi biasa
+- Semakin tinggi level literasi, semakin kompleks cerita yang terbuka
+- Gamifikasi progres pembelajaran
+
+### 🤖 AI Lokal yang Ringan
+- *Small Language Model* (SLM) dioptimalkan dengan C++
+- NPC dapat diajak mengobrol secara dinamis
+- Melatih **pemahaman konteks (*reading comprehension*)**
+- **Tanpa perlu internet** untuk cloud server
+
+### 3. Dampak Nyata
+Inovasi ini secara langsung menjawab tantangan Masalah Global #8. Dengan ukuran aplikasi di bawah 100MB dan kemampuan berjalan di HP lama, *Aksara Quest* mendemokratisasi akses pendidikan berkualitas tinggi ke daerah terpencil (3T) yang tidak memiliki guru atau sekolah fisik.
